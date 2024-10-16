@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Paracetamol 500mg",
+    "description": "Analgésico y antipirético utilizado para tratar el dolor y la fiebre.",
+    "code": "PARA500",
+    "price": 5.99,
+    "status": true,
+    "stock": 100,
+    "category": "Pain Relief"
+  },
+  {
+    "id": 2,
+    "title": "Ibuprofen 200mg",
+    "description": "Fármaco antiinflamatorio no esteroideo (AINE) utilizado para reducir la inflamación y tratar el dolor.",
+    "code": "IBU200",
+    "price": 7.49,
+    "status": true,
+    "stock": 150,
+    "category": "Anti-inflammatory"
+  },
+  {
+    "id": 3,
+    "title": "Amoxicillin 500mg",
+    "description": "Antibiótico utilizado para tratar una variedad de infecciones bacterianas.",
+    "code": "AMOX500",
+    "price": 10.99,
+    "status": true,
+    "stock": 50,
+    "category": "Antibiotic"
+  },
+  {
+    "id": 4,
+    "title": "Loratadine 10mg",
+    "description": "Antihistamínico utilizado para aliviar los síntomas de alergias.",
+    "code": "LORA10",
+    "price": 8.25,
+    "status": true,
+    "stock": 80,
+    "category": "Antihistamine"
+  },
+  {
+    "id": 5,
+    "title": "Metformin 500mg",
+    "description": "Medicamento oral para la diabetes que ayuda a controlar los niveles de azúcar en la sangre.",
+    "code": "MET500",
+    "price": 12.49,
+    "status": true,
+    "stock": 60,
+    "category": "Diabetes"
+  },
+  {
+    "id": 6,
+    "title": "puma 500mg",
+    "description": "Analgésico y antipirético utilizado para tratar el dolor y la fiebre.",
+    "code": "PARA500",
+    "price": 5.99,
+    "status": true,
+    "stock": 100,
+    "category": "Pain Relief",
+    "thumbnails": []
+  },
+  {
+    "id": 7,
+    "title": "Azitromicina 500mg",
+    "description": "Analgésico y antipirético utilizado para tratar el dolor y la fiebre.",
+    "code": "PARA500",
+    "price": 5.99,
+    "status": true,
+    "stock": 100,
+    "category": "Pain Relief",
+    "thumbnails": []
+  }
+]
